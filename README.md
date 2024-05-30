@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Mapsa-Hr
 - 🌱 I’m currently learning Nest js
 - 💬 Ask me about on linkedin
-- 📫 How to reach me: mail- arad@gmail.com
+- 📫 How to reach me: mail- aradqp@gmail.com
 
 
 - Back-End <br/><br/>
